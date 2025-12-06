@@ -9,25 +9,31 @@ profile:
   image: lyx.jpg
   image_circular: true
   more_info: >
-    <p style="font-size: 16px; color: #333; margin: 4px 0;">
-      <a href="mailto:yuxi_liu@hnu.edu.cn" style="color: inherit; text-decoration: none; display: flex; align-items: center; gap: 6px;">
-        <i class="fas fa-envelope"></i> Email
+  <div style="display:block; width:100%; margin-top:10px;">
+    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+      <i class="fas fa-envelope"></i>
+      <a href="mailto:yuxi_liu@hnu.edu.cn" style="color:inherit; text-decoration:none;">
+        Email
       </a>
-    </p>
-    <p style="font-size: 16px; color: #333; margin: 4px 0;">
-      <a href="https://github.com/Yuxi104" target="_blank" style="color: inherit; text-decoration: none; display: flex; align-items: center; gap: 6px;">
-        <i class="fab fa-github"></i> GitHub
-      </a>
-    </p>
-    <p style="font-size: 16px; color: #333; margin: 4px 0;">
-      <a href="https://scholar.google.com.hk/citations?user=7w0_uFYAAAAJ&hl=zh-CN" target="_blank" style="color: inherit; text-decoration: none; display: flex; align-items: center; gap: 6px;">
-        <i class="ai ai-google-scholar"></i> Google Scholar
-      </a>
-    </p>
+    </div>
 
+    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+      <i class="fab fa-github"></i>
+      <a href="https://github.com/AimL104" target="_blank" style="color:inherit; text-decoration:none;">
+        GitHub
+      </a>
+    </div>
+
+    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+      <i class="fas fa-graduation-cap"></i>
+      <a href="https://scholar.google.com/" target="_blank" style="color:inherit; text-decoration:none;">
+        Google Scholar
+      </a>
+    </div>
+  </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
