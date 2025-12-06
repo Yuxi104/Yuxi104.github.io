@@ -20,7 +20,7 @@ profile:
 
       <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
         <i class="fab fa-github"></i>
-        <a href="https://github.com/AimL104" target="_blank" style="color:inherit; text-decoration:none;">
+        <a href="https://github.com/Yuxi104" target="_blank" style="color:inherit; text-decoration:none;">
           GitHub
         </a>
       </div>
