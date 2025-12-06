@@ -8,29 +8,31 @@ profile:
   align: right
   image: lyx.jpg
   image_circular: true
-  more_info: >
-  <div style="display:block; width:100%; margin-top:10px;">
-    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
-      <i class="fas fa-envelope"></i>
-      <a href="mailto:yuxi_liu@hnu.edu.cn" style="color:inherit; text-decoration:none;">
-        Email
-      </a>
-    </div>
+  more_info: |
+    <div style="display:block; width:100%; margin-top:10px;">
 
-    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
-      <i class="fab fa-github"></i>
-      <a href="https://github.com/AimL104" target="_blank" style="color:inherit; text-decoration:none;">
-        GitHub
-      </a>
-    </div>
+      <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+        <i class="fas fa-envelope"></i>
+        <a href="mailto:yuxi_liu@hnu.edu.cn" style="color:inherit; text-decoration:none;">
+          Email
+        </a>
+      </div>
 
-    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
-      <i class="fas fa-graduation-cap"></i>
-      <a href="https://scholar.google.com/" target="_blank" style="color:inherit; text-decoration:none;">
-        Google Scholar
-      </a>
+      <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+        <i class="fab fa-github"></i>
+        <a href="https://github.com/AimL104" target="_blank" style="color:inherit; text-decoration:none;">
+          GitHub
+        </a>
+      </div>
+
+      <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+        <i class="fas fa-graduation-cap"></i>
+        <a href="https://scholar.google.com/" target="_blank" style="color:inherit; text-decoration:none;">
+          Google Scholar
+        </a>
+      </div>
+
     </div>
-  </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
