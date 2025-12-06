@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: lyx.jpg
-  image_circular: true
+  image_circular: false
   more_info: |
     <div style="display:block; width:100%; margin-top:10px;">
 
