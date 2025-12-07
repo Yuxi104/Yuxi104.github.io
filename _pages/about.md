@@ -9,36 +9,36 @@ profile:
   image: lyx.jpg
   image_circular: false
   more_info: |
-  <div style="display:block; width:100%; margin-top:10px;">
+    <div style="display:block; width:100%; margin-top:10px;">
 
-    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
-      <span style="display:inline-flex; width:20px; justify-content:center;">
-        <i class="fas fa-envelope"></i>
-      </span>
-      <a href="mailto:yuxi_liu@hnu.edu.cn" style="color:inherit; text-decoration:none;">
-        Email
-      </a>
+      <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+        <span style="display:inline-flex; width:20px; justify-content:center;">
+          <i class="fas fa-envelope"></i>
+        </span>
+        <a href="mailto:yuxi_liu@hnu.edu.cn" style="color:inherit; text-decoration:none;">
+          Email
+        </a>
+      </div>
+
+      <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+        <span style="display:inline-flex; width:20px; justify-content:center;">
+          <i class="fab fa-github"></i>
+        </span>
+        <a href="https://github.com/Yuxi104" target="_blank" style="color:inherit; text-decoration:none;">
+          GitHub
+        </a>
+      </div>
+
+      <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
+        <span style="display:inline-flex; width:20px; justify-content:center;">
+          <i class="fas fa-graduation-cap"></i>
+        </span>
+        <a href="https://scholar.google.com/citations?user=7w0_uFYAAAAJ&hl=en" target="_blank" style="color:inherit; text-decoration:none;">
+          Google Scholar
+        </a>
+      </div>
+
     </div>
-
-    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
-      <span style="display:inline-flex; width:20px; justify-content:center;">
-        <i class="fab fa-github"></i>
-      </span>
-      <a href="https://github.com/Yuxi104" target="_blank" style="color:inherit; text-decoration:none;">
-        GitHub
-      </a>
-    </div>
-
-    <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
-      <span style="display:inline-flex; width:20px; justify-content:center;">
-        <i class="fas fa-graduation-cap"></i>
-      </span>
-      <a href="https://scholar.google.com/citations?user=7w0_uFYAAAAJ&hl=en" target="_blank" style="color:inherit; text-decoration:none;">
-        Google Scholar
-      </a>
-    </div>
-
-  </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
