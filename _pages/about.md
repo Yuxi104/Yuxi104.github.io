@@ -27,7 +27,7 @@ profile:
 
       <div style="display:flex; align-items:center; gap:8px; margin:6px 0;">
         <i class="fas fa-graduation-cap"></i>
-        <a href="https://scholar.google.com/" target="_blank" style="color:inherit; text-decoration:none;">
+        <a href="https://scholar.google.com/citations?user=7w0_uFYAAAAJ&hl=en" target="_blank" style="color:inherit; text-decoration:none;">
           Google Scholar
         </a>
       </div>
