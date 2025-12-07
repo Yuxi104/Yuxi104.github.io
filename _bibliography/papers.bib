@@ -73,24 +73,10 @@ url={https://openreview.net/forum?id=xXVEsGWSs8}
   author={Shuai Jiang and Min Liu and Yuxi Liu and Yunfeng Ma and Yaonan Wang},
   journal={IEEE T-IM}, 
   title={Category-Agnostic Cluster-Guided Selective Suppression for Weakly Supervised Surface Defect Localization}, 
+  abstract={Surface defect localization is indispensable for the quality control of industrial products in the manufacturing process, supervised dense prediction of defect areas requires laborious and difficult pixel-level annotations. On the contrary, weakly supervised defect localization (WSDL) is much more practicable, and the class activation maps (CAMs) generated with image-level labels can serve as prior knowledge or cues for downstream tasks. However, due to interference of unforeseen background objects that may have high confidence in activation maps instead, the localization maps obtained from general WSDL methods are prone to be unreliable, which leads to errors or even missing localization. Therefore, in this article, we innovatively propose a simple, yet effective cluster-guided selective suppression (CSS) strategy for weakly supervised surface defect localization, aiming at the rectification of CAMs, thus producing more reliable localization maps. Specifically, CSS leverages converted rectangle patch pairs generated from CAMs and performs unsupervised vector-level cluster analysis, all patches are classified into defective or nondefective clusters. Subsequently, a categoryagnostic cluster is selected to provide suppression feedback for the image suppressor, and the suppressed images are recycled for feature re-learning. Extensive experimental results demonstrate that our proposed method achieves state-of-the-art WSDL performance on three public datasets of metal and magnetic-tile surfaces, with average classification and localization accuracy improved by 7.19% and 5.40%, respectively.},
   month={Mar.},
   year={2025},
   volume={74},
   number={},
   selected={true},
   pages={1-12}}
-
-
-@article{scientia,
-  abbr={中国科学: 信息科学},
-  author = {程曦航 and 孟翔飞 and 刘敏 and 刘禹希 and 马云峰 and 蒋帅 and 王学平 and 王耀南}
-  title = {基于网络架构搜索的航发叶片表面缺陷检测方法及系统}
-  abstract={航空发动机是飞行设备的心脏, 其涡轮叶片的缺陷检测对保障航空航天的安全至关重要. 现有的深度学习方案通常需要大量计算资源, 并且无法满足精准快速的检测需求. 为了解决以上挑战, 本文提出了基于网络架构搜索的多尺度高低频特征聚合分割方法 (multi-scale separate-frequency feature aggregation segmentation method, MSFA), 并将其部署到自动化质检系统中. 首先, 本文针对航空发动机涡轮叶片的复杂缺陷设计了一个自适应知识图谱驱动的轻量搜索空间, 以动态搜索网络的配置, 通过通道数量与卷积核大小双最优构建本文的轻量化模型. 其次, 本文开发了高分辨率残差模块来引导缺陷分割过程, 在保证精度的前提下实现高效的缺陷检测. 最后, 本文构建了高低频信息分离方法, 来选择性地融合纹理信息以获得缺陷的重要特征, 利用多尺度特征融合来聚合不同语义层级的缺陷信息. 实验结果表明, MSFA 在航发叶片分割任务中以 5.73M 的参数量实现了 75.04% 的交并比, 与目前最先进的方法相比提升了 7.42%, 并保持实时级推理效率. 此外, 本文将其部署到一套多过程的自动化质检系统中, 涵盖自动上下料、智能全覆盖成像、缺陷精准检测、误检检出和缺陷综合评估 5 个部分, 解决了工业场景中航发叶片高速、精准检测的难题, 全自动化的过程实现了高效的缺陷检测.},
-  journal = {中国科学: 信息科学},
-  month={Jun.},
-  year = {2025},
-  volume = {55},
-  number = {7},
-  pages = {1657-},
-  selected={true},
-}
