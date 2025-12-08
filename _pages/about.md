@@ -6,7 +6,7 @@ subtitle: "Latest update: December, 2025"
 
 profile:
   align: right
-  image: lyx.png
+  image: lyx2.jpg
   image_circular: false
   more_info: |
     <div style="display:block; width:100%; margin-top:10px;">
