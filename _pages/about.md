@@ -54,7 +54,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a Master student at the National Engineering Research Center for Robot Visual Perception and Control Technology, Hunan University, advised by [Prof. Min Liu](https://robotics.hnu.edu.cn/info/1176/3087.htm) and [Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). 
+Hi, I am a Master student at the [National Engineering Research Center of Robot Visual Perception & Control Technology](https://robot.hnu.edu.cn/index.htm), Hunan University, advised by [Prof. Min Liu](https://robotics.hnu.edu.cn/info/1176/3087.htm) and [Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). 
 
 Prior to this, I earned my B.Sc. degree from the Central South University of Forestry and Technology in 2023.
 
