@@ -19,7 +19,7 @@ export default function ProjectCard({
   slug,
 }: ProjectCardProps) {
   return (
-    <Link href={`projects/${slug}`} className="">
+    <Link href={`/projects/${slug}`} className="">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 border-neutral-200 dark:border-neutral-700 border w-full md:h-52 rounded-xl bg-white dark:bg-neutral-800 hover:shadow-xs overflow-hidden">
         <div className="p-6 flex flex-col justify-between ">
           <div className="flex flex-col gap-2 mb-4">
