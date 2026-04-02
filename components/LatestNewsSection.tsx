@@ -7,7 +7,6 @@ export default function LatestNewsSection() {
         <h1 className="text-2xl font-semibold">Research Interests</h1>
       </div>
       <ul className="list-disc pl-6 space-y-2 text-neutral-700 dark:text-neutral-200">
-        <li>LLM Agent</li>
         <li>World Model</li>
         <li>Neural Architecture Search</li>
       </ul>
