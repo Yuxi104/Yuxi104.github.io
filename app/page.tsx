@@ -20,7 +20,7 @@ export default function Page() {
         </div>
       )}
       <p className='text-sm text-neutral-500 dark:text-neutral-400'>
-        Last updated: March 1, 2026
+        Last updated: May 18, 2026
       </p>
     </main>
   );
