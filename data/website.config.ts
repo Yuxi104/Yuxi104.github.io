@@ -34,7 +34,7 @@ export type FontStyle = "sans" | "serif" | "mono";
 export const personalInfo: PersonalInfo = {
   name: "Yuxi Liu",
   // profilePicture: "/profile.jpg", //optional
-  role: "PhD Student",
+  role: "Ph.D. Student",
   university: "xLeaF Lab",
   universityWebsite: "https://github.com/xie-lab-ml",
   socialMedia: [
