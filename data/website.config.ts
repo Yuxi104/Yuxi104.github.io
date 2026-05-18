@@ -34,9 +34,9 @@ export type FontStyle = "sans" | "serif" | "mono";
 export const personalInfo: PersonalInfo = {
   name: "Yuxi Liu",
   // profilePicture: "/profile.jpg", //optional
-  role: "Master Student",
-  university: "HNU",
-  universityWebsite: "https://www.hnu.edu.cn/",
+  role: "PhD Student",
+  university: "xLeaF Lab",
+  universityWebsite: "https://github.com/xie-lab-ml",
   socialMedia: [
     { name: "Email", url: "mailto:yuxi_liu@hnu.edu.cn" },
     {
